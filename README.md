@@ -8,11 +8,6 @@ Bot para busca de imagens a partir de uma palavra chave de busca.
 
 ## Funcionalidades
 
-## TODO
-
-- Build a webscrapper to collect a url of an image from google search
-- Use (bot.sendPhoto(chat_id=chat_id, photo=url)) to send
-
 ## Equipe responsável
 
 - Dayanne Fernandes da Cunha
